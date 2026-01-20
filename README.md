@@ -26,5 +26,5 @@ The trained model can be used for loading and predicting the risks of strokes in
 - recipes 
 - ranger
 - ggplot2
--
+
 - ## Output > The last output will be a developed stroke risk assessment model and also an inference pipeline that can be applied.
